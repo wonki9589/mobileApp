@@ -1,0 +1,83 @@
+* {
+    background-color: ivory;
+}
+
+span{
+    margin: 170px 170px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 50px;
+    font-style: oblique;
+    font-size:15px;
+}
+
+
+hr {
+    border: solid 2px bisque;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.gauge,
+.mamo {
+   display: flex;
+   width: 100%;
+   height: 100vh; 
+   border:  1px solid black;
+   border-radius: 30px;
+   align-items: center;
+  
+}
+
+
+.gauge,
+.mamo {
+    width: 100%;
+    height: 200px;
+}
+
+p {
+    margin-top: 30px;
+    margin-bottom: 50px;
+   text-align: center;
+   font-weight: 500;
+  font-style: oblique;
+  font-size: 20px;
+}
+
+.gauge_1,
+.mamo_1 {
+    background-color:#0BD7EF;  
+}
+.gauge_2,
+.mamo_2{
+    background-color:#8FE9F3;
+}
+.gauge_3,
+.mamo_3{
+    background-color:#CEEBE3;
+}
+.gauge_4,
+.mamo_4{
+    background-color:#E7EEB9;
+}
+.gauge_5,
+.mamo_5{
+    background-color:#D6E85F;
+}
+.gauge_6,
+.mamo_6{
+    background-color:#D5F214;
+}
+.gauge_7,
+.mamo_7{
+    background-color:#E7BDA7;
+}
+.gauge_8,
+.mamo_8{
+    background-color:#E6804A;
+}
+.gauge_9,
+.mamo_9{
+    background-color:#F05505;
+}
